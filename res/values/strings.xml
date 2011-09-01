@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GT-STCFed</string>
+    <string name="authenticate_button_text">Autenticar</string>
+    <string name="quit_button_text">Sair</string>
+    <string name="username_label">Usuário</string>
+    <string name="password_label">Senha</string>
+    <string name="select_ur_idp_label">Selecione o seu IdP</string>
+    <string name="sp_label">URL do SP</string>
+    <string name="next_button_text">Próximo</string>
+    <string name="back_button_text">Voltar</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sp_label" android:layout_marginLeft="10dip" android:layout_marginTop="120dip" android:id="@+id/spUrlLabel"></TextView>
+    <EditText android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dip" android:layout_marginRight="10dip" android:layout_marginTop="10dip" android:layout_marginBottom="10dip" android:id="@+id/spUrlEditText">
+        <requestFocus></requestFocus>
+    </EditText>
+    <Button android:layout_height="wrap_content" android:text="@string/next_button_text" android:layout_width="match_parent" android:layout_marginLeft="10dip" android:layout_marginRight="10dip" android:layout_marginTop="50dip" android:layout_marginBottom="10dip" android:id="@+id/nextButton"></Button>
+    <Button android:layout_height="wrap_content" android:text="@string/quit_button_text" android:layout_width="match_parent" android:layout_margin="10dip" android:id="@+id/exitButton"></Button>
+    
+</LinearLayout>
